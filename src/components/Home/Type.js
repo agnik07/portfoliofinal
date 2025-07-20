@@ -9,7 +9,7 @@ function Type() {
           "Data Scientist",
           "Freelancer",
           "Business Enthusiast",
-          "Open Source Contributor",
+          "Stock Market Enthusiast",
         ],
         autoStart: true,
         loop: true,

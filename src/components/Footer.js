@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Kangkana Barman</h3>
+          <h3>Designed and Developed by Agnik Dutta</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} AD</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/kangkanabarman"
+                href="https://github.com/agnik07"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/kangkana-barman-614157299/"
+                href="https://www.linkedin.com/in/agnik-dutta-0412ab278/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/__kangkana__3366/"
+                href="https://www.instagram.com/myself_agnik/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
